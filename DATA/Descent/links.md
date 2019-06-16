@@ -5,3 +5,7 @@
 [Descent в GOG](https://www.gog.com/game/descent)
 
 [Descent 2 в GOG](https://www.gog.com/game/descent_2)
+
+[Descent в Steam](https://store.steampowered.com/app/273570/Descent/)
+
+[Descent 2 в Steam](https://store.steampowered.com/app/273580/Descent_2/)
